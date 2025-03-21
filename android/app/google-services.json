@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "391233130466",
+    "project_id": "crackexam-79f0c",
+    "storage_bucket": "crackexam-79f0c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391233130466:android:587ac926fe2bac3fe2b3bb",
+        "android_client_info": {
+          "package_name": "com.example.fast_quiz_tayari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391233130466-rof0mhlbmsnvu7s1k67dmofp5jtjbm5q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fast_quiz_tayari",
+            "certificate_hash": "7a6ea7d5084d0b25b5379652f3cd4320324a288d"
+          }
+        },
+        {
+          "client_id": "391233130466-ag5u9mt25it1mlhmgt6k6aeaim8udff6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0IRKcLJ3fHhENA3OM9Y_OA_5HtXc3wnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391233130466-ag5u9mt25it1mlhmgt6k6aeaim8udff6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
